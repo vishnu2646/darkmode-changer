@@ -6,6 +6,6 @@ and change the code accordingly.
 ## INSTALLATION
   1.Install the Tamper Monkey
   https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
-  2. Go to this link  and click Raw to install the script
+  2. Go to this link https://bit.ly/3uMhDXl and click Raw to install the script
   
  your theme will be changed to the dark mode. To view the light mode or defalut mode just diable the "Tampermonkey" for the particular script.
